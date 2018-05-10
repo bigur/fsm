@@ -1,0 +1,3 @@
+# Файлы python
+*.pyc
+__pycache__
