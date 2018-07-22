@@ -1,0 +1,6 @@
+# Файлы python
+*.pyc
+__pycache__
+
+# Папка egg-info
+/bigur_fsm.egg-info
