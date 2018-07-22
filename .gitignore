@@ -1,9 +1,19 @@
 # Файлы python
 *.pyc
 __pycache__
-<<<<<<< HEAD
 
-# Папка egg-info
+# IDE и редакторы
+.vscode
+*.swp
+
+# Файлы сборки пакета
+/.pybuild
+/debian/python3-bigur-fsm
+/debian/.debhelper
+/debian/*.log
+/debian/*.debhelper
+/debian/*.substvars
+/debian/files
+
+# Файлы .egg-info
 /bigur_fsm.egg-info
-=======
->>>>>>> 10871763fc30b503b3cc0208c63b75830f5cb70a
