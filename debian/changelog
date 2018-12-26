@@ -1,3 +1,15 @@
+bigur-fsm (3.0.2) UNRELEASED; urgency=medium
+
+  * Фикс копирайта в лицензии
+  * Фикс астрима в copyright
+  * Фикс URL в control
+  * Кеш mypy
+  * Кеш pytest, vscode
+  * Рефакторинг fsm
+  * Увеличен номер версии
+
+ -- Gennady Kovalev <gik@bigur.ru>  Thu, 27 Dec 2018 01:10:05 +0300
+
 bigur-fsm (3.0.1) unstable; urgency=medium
 
   * Initial release.
