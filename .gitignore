@@ -17,3 +17,9 @@ __pycache__
 
 # Файлы .egg-info
 /bigur_fsm.egg-info
+
+# Кеш mypy
+/.mypy_cache
+
+# Кеш pytest
+/.pytest_cache
