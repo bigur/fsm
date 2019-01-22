@@ -1,15 +1,12 @@
-# Файлы python
+# Python
 *.pyc
 __pycache__
 
-# vscode
-/.vscode
+# *.egg-info
+/*.egg-info
 
-# Папка egg-info
-/bigur_fsm.egg-info
+# MyPy
+.mypy_cache
 
-# Кеш mypy
-/.mypy_cache
-
-# Кеш pytest
-/.pytest_cache
+# ctags
+/.vscode/tags
